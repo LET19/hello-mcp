@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+      "hello-mcp": {
+        "command": "python",
+        "args": ["/mnt/f/Users/LET19/Desktop/Dev/MCP/hello-mcp/server.py"],
+        "env": {
+            "PYTHONPATH": "/mnt/f/Users/LET19/Desktop/Dev/MCP/hello-mcp/.venv/bin/python"
+        }
+      }
+    }
+  }

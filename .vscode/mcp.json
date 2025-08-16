@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"my-mcp-server-76e2961c": {
+			"type": "stdio",
+			"command": "/mnt/f/Users/LET19/Desktop/Dev/MCP/hello-mcp/.venv/bin/python",
+			"args": [
+				"/mnt/f/Users/LET19/Desktop/Dev/MCP/hello-mcp/server.py"
+			]
+		}
+	},
+	"inputs": []
+}
